@@ -1,4 +1,4 @@
 ## Ingredients
 -peas
--onion
+-spring onion
 -potato
