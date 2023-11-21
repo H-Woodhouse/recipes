@@ -3,4 +3,4 @@
 -spring onion
 -potato
 ## Instructions
--Shell the peas
+-Shell the peas put peas into a pan
